@@ -1,0 +1,601 @@
+TREE HAS 100 LEAVES
+
+LEAF 1
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 1 1 0 0 0 0 0 0 
+
+LEAF 2
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 2 1 0 0 0 0 0 0 
+
+LEAF 3
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 3 1 0 0 0 0 0 0 
+
+LEAF 4
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 4 1 0 0 0 0 0 0 
+
+LEAF 5
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 2 1 1 0 0 0 0 0 0 
+
+LEAF 6
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 2 4 1 0 0 0 0 0 0 
+
+LEAF 7
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 3 1 1 0 0 0 0 0 0 
+
+LEAF 8
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 3 4 1 0 0 0 0 0 0 
+
+LEAF 9
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 1 1 0 0 0 0 0 0 
+
+LEAF 10
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 2 1 0 0 0 0 0 0 
+
+LEAF 11
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 3 1 0 0 0 0 0 0 
+
+LEAF 12
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 4 1 0 0 0 0 0 0 
+
+LEAF 13
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 1 1 1 0 0 0 
+
+LEAF 14
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 2 1 1 0 0 0 
+
+LEAF 15
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 1 2 1 0 0 0 
+
+LEAF 16
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 2 2 1 0 0 0 
+
+LEAF 17
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 1 1 2 0 0 0 
+
+LEAF 18
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 2 1 2 0 0 0 
+
+LEAF 19
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 1 2 2 0 0 0 
+
+LEAF 20
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 2 3 1 2 2 2 0 0 0 
+
+LEAF 21
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 1 1 1 0 0 0 
+
+LEAF 22
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 2 1 1 0 0 0 
+
+LEAF 23
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 1 2 1 0 0 0 
+
+LEAF 24
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 2 2 1 0 0 0 
+
+LEAF 25
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 1 1 2 0 0 0 
+
+LEAF 26
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 2 1 2 0 0 0 
+
+LEAF 27
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 1 2 2 0 0 0 
+
+LEAF 28
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 2 1 2 2 2 0 0 0 
+
+LEAF 29
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 1 1 0 0 0 
+
+LEAF 30
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 1 1 0 0 0 
+
+LEAF 31
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 2 1 0 0 0 
+
+LEAF 32
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 2 1 0 0 0 
+
+LEAF 33
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 1 2 0 0 0 
+
+LEAF 34
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 1 2 0 0 0 
+
+LEAF 35
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 2 2 0 0 0 
+
+LEAF 36
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 2 2 0 0 0 
+
+LEAF 37
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 1 1 1 
+
+LEAF 38
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 2 1 1 
+
+LEAF 39
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 1 2 1 
+
+LEAF 40
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 2 2 1 
+
+LEAF 41
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 1 1 2 
+
+LEAF 42
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 2 1 2 
+
+LEAF 43
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 1 2 2 
+
+LEAF 44
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 1 2 2 2 
+
+LEAF 45
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 1 1 1 
+
+LEAF 46
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 2 1 1 
+
+LEAF 47
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 1 2 1 
+
+LEAF 48
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 2 2 1 
+
+LEAF 49
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 1 1 2 
+
+LEAF 50
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 2 1 2 
+
+LEAF 51
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 1 2 2 
+
+LEAF 52
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 1 2 2 2 
+
+LEAF 53
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 1 1 1 
+
+LEAF 54
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 2 1 1 
+
+LEAF 55
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 1 2 1 
+
+LEAF 56
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 2 2 1 
+
+LEAF 57
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 1 1 2 
+
+LEAF 58
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 2 1 2 
+
+LEAF 59
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 1 2 2 
+
+LEAF 60
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 1 2 2 2 
+
+LEAF 61
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 1 1 1 
+
+LEAF 62
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 2 1 1 
+
+LEAF 63
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 1 2 1 
+
+LEAF 64
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 2 2 1 
+
+LEAF 65
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 1 1 2 
+
+LEAF 66
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 2 1 2 
+
+LEAF 67
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 1 2 2 
+
+LEAF 68
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 1 2 2 2 
+
+LEAF 69
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 1 1 1 
+
+LEAF 70
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 2 1 1 
+
+LEAF 71
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 1 2 1 
+
+LEAF 72
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 2 2 1 
+
+LEAF 73
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 1 1 2 
+
+LEAF 74
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 2 1 2 
+
+LEAF 75
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 1 2 2 
+
+LEAF 76
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 1 2 2 2 2 
+
+LEAF 77
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 1 1 1 
+
+LEAF 78
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 2 1 1 
+
+LEAF 79
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 1 2 1 
+
+LEAF 80
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 2 2 1 
+
+LEAF 81
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 1 1 2 
+
+LEAF 82
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 2 1 2 
+
+LEAF 83
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 1 2 2 
+
+LEAF 84
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 1 2 2 2 2 
+
+LEAF 85
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 1 1 1 
+
+LEAF 86
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 2 1 1 
+
+LEAF 87
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 1 2 1 
+
+LEAF 88
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 2 2 1 
+
+LEAF 89
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 1 1 2 
+
+LEAF 90
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 2 1 2 
+
+LEAF 91
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 1 2 2 
+
+LEAF 92
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 1 2 2 2 2 2 
+
+LEAF 93
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 1 1 1 
+
+LEAF 94
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 2 1 1 
+
+LEAF 95
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 1 2 1 
+
+LEAF 96
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 2 2 1 
+
+LEAF 97
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 1 1 2 
+
+LEAF 98
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 2 1 2 
+
+LEAF 99
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 1 2 2 
+
+LEAF 100
+Spacing 0.062500
+Current 2 and future 2 refinment
+Lagrangian 0
+Key 2 2 1 2 2 2 2 2 2 

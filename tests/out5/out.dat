@@ -1,0 +1,64 @@
+
+
+constants.h
+
+
+	General parameters
+
+	MESH_LEVELS 1
+
+	RFN_LEVELS 4
+
+	RFN_TYPE 3
+
+	SIZE_KEY 12
+
+	FIND_LAG 0
+
+	ID_UPPER_LIMIT 4294967295
+
+	Domain configurations
+
+	LX 1.000000
+
+	LY 1.000000
+
+	LZ 1.000000
+
+	NX 4
+
+	NY 4
+
+	NZ 4
+
+	ORIGIN_X 0.000000
+
+	ORIGIN_Y 0.000000
+
+	ORIGIN_Z 0.000000
+
+	Multiprocessing parameters
+
+	PROCX 1
+
+	PROCY 1
+
+	PROCZ 1
+
+	Finite Volume parameters
+
+	NUMBER_CENTER_VARS 2
+
+	NUMBER_FACE_VARS 3
+
+	NUMBER_FLUXES 12
+
+	NUMBER_RATES 4
+
+	Flow data
+
+	RHO 1.000000
+
+	Math constants
+
+	PI 3.141593

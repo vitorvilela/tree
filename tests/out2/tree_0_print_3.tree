@@ -1,0 +1,139 @@
+TREE HAS 23 LEAVES
+
+LEAF 1
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 2 1 0 0 0 
+
+LEAF 2
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 3 1 0 0 0 
+
+LEAF 3
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 4 1 0 0 0 
+
+LEAF 4
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 2 1 1 0 0 0 
+
+LEAF 5
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 2 3 1 0 0 0 
+
+LEAF 6
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 2 4 1 0 0 0 
+
+LEAF 7
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 3 1 1 0 0 0 
+
+LEAF 8
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 3 2 1 0 0 0 
+
+LEAF 9
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 3 4 1 0 0 0 
+
+LEAF 10
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 1 1 0 0 0 
+
+LEAF 11
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 2 1 0 0 0 
+
+LEAF 12
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 3 1 0 0 0 
+
+LEAF 13
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 4 4 1 0 0 0 
+
+LEAF 14
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 1 1 1 0 0 0 
+
+LEAF 15
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 1 1 
+
+LEAF 16
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 1 1 
+
+LEAF 17
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 2 1 
+
+LEAF 18
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 2 1 
+
+LEAF 19
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 1 2 
+
+LEAF 20
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 1 2 
+
+LEAF 21
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 1 2 2 
+
+LEAF 22
+Spacing 0.125000
+Current 1 and future 1 refinment
+Lagrangian 0
+Key 3 3 1 2 2 2 
+
+LEAF 23
+Spacing 0.250000
+Current 0 and future 0 refinment
+Lagrangian 0
+Key 2 2 1 0 0 0 
