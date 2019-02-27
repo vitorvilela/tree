@@ -8,9 +8,9 @@ FEATURES:
 
 USES:
 
-Uthash: A hash table for C structures https://troydhanson.github.io/uthash/
+- Uthash: A hash table for C structures https://troydhanson.github.io/uthash/
 
 TODO:
 
-Add momentum transport
-Add particle transport
+- Add momentum transport
+- Add particle transport
