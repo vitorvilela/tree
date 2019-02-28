@@ -12,5 +12,6 @@ FEATURES:
 
 TODO:
 
+- Extend MPI to Euler fields and particle transport
 - Add momentum transport
 - Add particle transport
